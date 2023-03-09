@@ -4,7 +4,7 @@ Labs and exercises to help you learn building custom app and employee experience
 
 Live at https://cloudnative.courselabs.co.
 
-## Credits
+## Labs and Exercises
 
 The practical work is a series of labs and exercises:
 
