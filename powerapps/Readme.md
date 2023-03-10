@@ -1,2 +1,2 @@
-- [Working with Canvas Apps](powerapps/canvas-app.md)
-- [Working with model-driven app](powerapps/model-driven-app.md)
+- [Working with Canvas Apps](canvas-app.md)
+- [Working with model-driven app](model-driven-app.md)
