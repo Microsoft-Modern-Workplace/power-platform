@@ -7,9 +7,9 @@ Labs and exercises to help you learn building custom app and employee experience
 The practical work is a series of labs and exercises:
 
 - [Power Platform Administration](adminportals/Readme.md) 
-- [Power Platform Core Components](Core Com) 
-- [Working with Power Apps]()
-- [Working with Power Automate]()
-- [Working with Power Virtual Agents]()
-- [Teams Integration]()
-- [Viva Topics and Engage]()
+- [Power Platform Core Components](corecomponents/Readme.md) 
+- [Working with Power Apps](powerapps/Readme.md)
+- [Working with Power Automate](powerautomate/Readme.md)
+- [Working with Power Virtual Agents](powervirtualagents/Readme.md)
+- [Teams Integration](teamsintegration/Readme.md)
+- [Viva Topics and Engage](viva/Readme.md)
