@@ -8,6 +8,7 @@ The practical work is a series of labs and exercises:
 
 - [Power Platform Administration](adminportals/Readme.md) 
 - [Power Platform Core Components](corecomponents/Readme.md) 
+- [Working with Power BI](powerbi/Readme.md)
 - [Working with Power Apps](powerapps/Readme.md)
 - [Working with Power Automate](powerautomate/Readme.md)
 - [Working with Power Virtual Agents](powervirtualagents/Readme.md)
