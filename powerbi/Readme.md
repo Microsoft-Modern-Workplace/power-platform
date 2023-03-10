@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Lab 3: How to build a simple dashboard'
+    title: 'Lab 2: How to build a simple dashboard'
     module: 'Module 2: Get Started with Power BI'
 ---
 
