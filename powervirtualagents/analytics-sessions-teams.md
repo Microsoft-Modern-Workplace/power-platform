@@ -2,15 +2,7 @@
 title: "Download chatbot sessions in Microsoft Teams"
 description: "Download Power Virtual Agents chatbot session information from the last 30 days in the app in Microsoft Teams."
 keywords: "PVA, Teams"
-ms.date: 01/23/2023
 
-ms.topic: article
-author: iaanw
-ms.author: iawilt
-manager: shellyha
-ms.custom: analysis, ceX, teams
-ms.service: power-virtual-agents
-ms.collection: virtual-agent
 ---
 
 # Analyze session information in the Power Virtual Agents app in Microsoft Teams

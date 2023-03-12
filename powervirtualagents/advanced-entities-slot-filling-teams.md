@@ -2,14 +2,7 @@
 title: "Create and use entities in Microsoft Teams"
 description: "Use entities in your chatbots to create sophisticated conversations."
 keywords: "PVA, Teams"
-ms.date: 01/25/2022
-ms.topic: article
-author: iaanw
-ms.author: iawilt
-manager: shellyha
-ms.custom: authoring, ceX, teams
-ms.service: power-virtual-agents
-ms.collection: virtual-agent
+
 ---
 
 # Use entities and slot filling in Power Virtual Agents bots in Teams

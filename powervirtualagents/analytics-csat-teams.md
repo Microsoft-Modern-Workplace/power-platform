@@ -2,15 +2,7 @@
 title: "Review customer satisfaction for your chatbots in Microsoft Teams"
 description: "See how well customers are interacting with your bot, and identify areas for improvement in the Power Virtual Agents app in Microsoft Teams."
 keywords: "PVA, Teams"
-ms.date: 01/23/2023
 
-ms.topic: article
-author: iaanw
-ms.author: iawilt
-manager: shellyha
-ms.custom: analysis, ceX, teams
-ms.service: power-virtual-agents
-ms.collection: virtual-agent
 ---
 
 # Analyze customer satisfaction for Power Virtual Agents bots in Teams

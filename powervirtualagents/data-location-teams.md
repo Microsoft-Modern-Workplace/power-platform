@@ -1,16 +1,7 @@
 ---
 title: "Regional settings and data locations in Microsoft Teams"
 description: "Identify the geographic location where your data will be stored, and plan for globalization features, including currency and date and time formats, in the Power Virtual Agents app in Microsoft Teams."
-ms.date: 9/22/2020
-keywords: "PVA, Teams"
-ms.topic: article
-author: iaanw
-ms.author: iawilt
-manager: shellyha
-ms.reviewer: digantak
-ms.service: power-virtual-agents
-ms.collection: virtual-agent
-ms.custom: "multi-geo, gdpr, ce06102020, teams"
+
 ---
 
 # Regional settings and data locations for organizations using Power Virtual Agents in Teams

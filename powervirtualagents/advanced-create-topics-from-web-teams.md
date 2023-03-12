@@ -4,13 +4,6 @@ description: "Get suggestions on what topics to include from existing support co
 keywords: "PVA, Teams"
 ms.date: 08/24/2022
 
-ms.topic: article
-author: iaanw
-ms.author: iawilt
-manager: shellyha
-ms.custom: authoring, ceX, teams
-ms.service: power-virtual-agents
-ms.collection: virtual-agent
 ---
 
 # Create topics from existing online support content in Teams

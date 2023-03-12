@@ -1,14 +1,7 @@
 ---
 title: "Error Codes in Microsoft Teams"
 description: "Troubleshoot error code responses from your bot in Microsoft Teams."
-ms.date: 02/07/2022
-keywords: "PVA, Teams"
-ms.topic: troubleshooting
-author: iaanw
-ms.author: iawilt
-manager: shellyha
-ms.reviewer: clmori
-ms.service: power-virtual-agents
+
 
 #Customer intent: As a bot maker, I want learn about error codes so that I can resolve issues with my bots.
 ---

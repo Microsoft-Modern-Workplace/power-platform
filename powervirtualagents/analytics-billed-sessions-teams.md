@@ -2,15 +2,7 @@
 title: "View billed sessions in Microsoft Teams"
 description: "See billed sessions for the last 30 or 7 days in the Power Virtual Agents app in Microsoft Teams."
 keywords: "PVA, Teams"
-ms.date: 01/23/2023
 
-ms.topic: article
-author: iaanw
-ms.author: iawilt
-manager: shellyha
-ms.custom: "analysis, licensing, ceX, teams"
-ms.service: power-virtual-agents
-ms.collection: virtual-agent
 ---
 
 # View billed sessions for Power Virtual Agents in Teams
