@@ -11,5 +11,5 @@ The practical work is a series of labs and exercises:
 - [Working with Power BI](powerbi/Readme.md)
 - [Working with Power Apps](powerapps/Readme.md)
 - [Working with Power Automate](powerautomate/Readme.md)
-- [Working with Power Virtual Agents](powervirtualagents/Readme.md)
+- [Working with Power Virtual Agents and Teams integration](powervirtualagents/Readme.md)
 
