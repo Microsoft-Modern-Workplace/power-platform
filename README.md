@@ -12,5 +12,4 @@ The practical work is a series of labs and exercises:
 - [Working with Power Apps](powerapps/Readme.md)
 - [Working with Power Automate](powerautomate/Readme.md)
 - [Working with Power Virtual Agents](powervirtualagents/Readme.md)
-- [Teams Integration](teamsintegration/Readme.md)
-- [Viva Topics and Engage](viva/Readme.md)
+
